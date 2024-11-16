@@ -104,6 +104,6 @@ Me chamo Diego Araujo, tenho 36 anos. Cursando Análise e Desenvolvimento de Sis
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="205" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieggo775&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
