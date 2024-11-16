@@ -2,7 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Araujo, tenho 36 anos. Cursando Análise e Desenvolvimento de Sistemas 💻. Sou Nerd 🤓 por natureza.
+Me chamo Diego Araujo, tenho 36 anos. Cursando Análise e Desenvolvimento de Sistemas 💻.<br>
+"Alguns podem ler 'GUERRA E PAZ' e achar que é uma simples historia de aventura.<br>
+Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 
 
 <p align="left">
@@ -104,7 +106,7 @@ Me chamo Diego Araujo, tenho 36 anos. Cursando Análise e Desenvolvimento de Sis
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="205"
+      height="200"
         style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dieggo775&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
