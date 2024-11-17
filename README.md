@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Diego Araujo 🎧🎮🎞
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor a caminho do FullStack`**
 
 Me chamo Diego Araujo, tenho 36 anos. Cursando Análise e Desenvolvimento de Sistemas 💻.<br>
 "Alguns podem ler 'GUERRA E PAZ' e achar que é uma simples historia de aventura.<br>
