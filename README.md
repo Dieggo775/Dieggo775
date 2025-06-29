@@ -73,8 +73,8 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
@@ -86,6 +86,14 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Rust" 
+    title="Rust"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
 />
 
 
