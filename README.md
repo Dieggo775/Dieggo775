@@ -2,7 +2,7 @@
 
 **`Desenvolvedor a caminho do FullStack`**
 
-Me chamo Diego Araujo. Cursando Análise e Desenvolvimento de Sistemas 💻.<br>
+Cursando Análise e Desenvolvimento de Sistemas 💻.<br>
 "Alguns podem ler 'GUERRA E PAZ' e achar que é uma simples historia de aventura.<br>
 Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 
@@ -11,7 +11,6 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
         <a href="https://github.com/Dieggo775?tab=repositories&sort=stargazers">
         <a href="https://www.linkedin.com/feed/diegoaraujo1987" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
         <a href="https://discord.com/channels/dieggo6907" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-        <a href = "mailto:dieggo_taylor@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://instagram.com/dieggo_taylor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <img 
             alt="Total de estrelas" 
@@ -31,14 +30,7 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 ---
 
 ### 👾 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -65,14 +57,6 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
@@ -81,22 +65,37 @@ Outros leem uma embalagem de chiclete e desvendam os segredos do universo"
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="mYsql"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Rust" 
-    title="Rust"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" 
-/>
-
-
 <br/>
 <br/>
 
