@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Diego Araujo
+# 👨🏻‍💻 Diego Araújo
 
 **Desenvolvedor em formação com foco em Full Stack**
 
@@ -83,5 +83,5 @@ Construir uma trajetória sólida como desenvolvedor Full Stack, criando aplica�
 
 ## 📫 Contato
 
-- LinkedIn: [seu-link-aqui](https://www.linkedin.com/in/diegosilvaaraujo)
+- LinkedIn: [Diego_Silva_Araújo](https://www.linkedin.com/in/diegosilvaaraujo)
 - GitHub: [Dieggo775](https://github.com/Dieggo775)
