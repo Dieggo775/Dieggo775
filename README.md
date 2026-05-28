@@ -58,7 +58,7 @@ Atualmente venho aprofundando meus estudos em Java, JavaScript, bancos de dados 
 - Docker e ambientes containerizados
 - Boas práticas com Git e GitHub
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 ## 🎯 Objetivo
 
