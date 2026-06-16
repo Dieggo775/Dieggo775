@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Diego Araújo
+# 👨🏻‍💻 Diego Silva Araújo
 
 **Desenvolvedor em Formação | Full Stack**
 
