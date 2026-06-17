@@ -113,7 +113,7 @@ Tem interesse em colaborar ou conversar sobre desenvolvimento? Entre em contato!
 
 - **LinkedIn:** [Diego Silva Araújo](https://www.linkedin.com/in/diegosilvaaraujo/)
 - **GitHub:** [@Dieggo775](https://github.com/Dieggo775)
-- **Email:** seu.email@exemplo.com
+- **Email:** dieggo_taylor@gmail.com
 
 ---
 
